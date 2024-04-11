@@ -4,10 +4,7 @@ Hey there! I'm a full-stack developer with over eight years of experience in sof
 <p align="center">
   <a href="https://github.com/hodaSedighi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Hoda;I+love+Programming;I+love+React;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
-##
-
-
-<p align="center">Contact me:</p>
+#
 <p>
 <div align="center">
 <a href="https://www.linkedin.com/in/hoda--sedighi/">
