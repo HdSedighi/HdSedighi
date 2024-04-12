@@ -2,7 +2,7 @@
 
 Hey there! I'm a full-stack developer with over eight years of experience in software development. I'm really good at building and optimizing web applications and microservice cloud applications using the .NET framework, C#, and React.js. My passion lies in designing innovative and reliable solutions that enhance the performance and quality of scalable microservice cloud applications and services. I love learning new things and always eager to explore new challenges and opportunities to grow and expand my skills.
 <p align="center">
-  <a href="https://github.com/hodaSedighi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Hoda;I+love+Programming;I+love+React;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/hodaSedighi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Hoda;I+love+Programming;I+love+React+.NET+C#;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
 <p align="center">Contact me:</p>
 <p>
@@ -31,3 +31,8 @@ Hey there! I'm a full-stack developer with over eight years of experience in sof
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodasedighi&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
 </p> -->
+
+## 🏆 GitHub Trophies
+<!--      ![](https://github-trophies.vercel.app/?username=hodasedighi&&rank=S,AA,SSS,SS,SECRET)  -->
+![](https://github-profile-trophy.vercel.app/?username=hodasedighi&theme=dracula&no-frame=false&no-bg=false&margin-w=4&&rank=S,AA,A,AAA,SSS,SS,SECRET)
+
