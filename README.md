@@ -21,8 +21,8 @@ Hey there! I'm a full-stack developer with over eight years of experience in sof
 <br/>
 <p align="center">
 <!--      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hodasedighi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"> -->
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hodasedighi&theme=radical">	
-   <img width="41.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodasedighi&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hodasedighi&theme=jolly">	
+   <img width="41.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodasedighi&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br>
 
