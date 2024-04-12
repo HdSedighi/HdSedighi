@@ -25,7 +25,7 @@ Hey there! I'm a full-stack developer with over eight years of experience in sof
 </p>
 <br>
 
-<!-- [![Hoda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hodasedighi&theme=react)](https://github.com/hodasedighi/github-readme-activity-graph) -->
+[![Hoda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hodasedighi&theme=react)](https://github.com/hodasedighi/github-readme-activity-graph)
 
 <!-- <p align="center">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodasedighi&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
