@@ -9,7 +9,10 @@ Hey there! I'm a full-stack developer with over eight years of experience in sof
 <div align="center">
 <a href="https://www.linkedin.com/in/hoda--sedighi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+</a>
+<a href="https://medium.com/@hoda_sedighi">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@hoda_sedighi" alt="Medium Badge"/>
+</a>
 </div>
 </p>
 
