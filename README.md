@@ -27,10 +27,10 @@ Hey there! I'm a full-stack developer with over eight years of experience in sof
 <br>
 
 <!--  [![Hd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hdsedighi&theme=react)](https://github.com/hdsedighi/github-readme-activity-graph) -->
-<!-- <p align="center">
-    <a href="https://leetcode.com/hodasedighi/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+<p align="center">
+    <a href="https://leetcode.com/u/hdsedighi/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/hdsedighi"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-</p> -->
+</p> 
 
 ## 🏆 GitHub Trophies
 <!--      ![](https://github-trophies.vercel.app/?username=hdsedighi&&rank=S,AA,SSS,SS,SECRET)  -->
