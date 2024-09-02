@@ -22,13 +22,15 @@ Hey there! I'm a full-stack developer with over eight years of experience in sof
 <p align="center">
 <!--      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hdsedighi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"> -->
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hdsedighi&theme=radical">	
-   <img width="41.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdsedighi&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <a href="https://leetcode.com/u/hdsedighi/"><img width="48%" src="https://leetcode.card.workers.dev/hdsedighi?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+<!--    <img width="41.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdsedighi&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact"> -->
 </p>
 <br>
 
 <!--  [![Hd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hdsedighi&theme=react)](https://github.com/hdsedighi/github-readme-activity-graph) -->
 <p align="center">
-    <a href="https://leetcode.com/u/hdsedighi/"><img width="48%" src="https://leetcode.card.workers.dev/hdsedighi?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+     <img width="41.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdsedighi&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<!--     <a href="https://leetcode.com/u/hdsedighi/"><img width="48%" src="https://leetcode.card.workers.dev/hdsedighi?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
 <!--     <a href="https://github.com/hdsedighi"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdsedighi&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a> -->
 </p> 
 
